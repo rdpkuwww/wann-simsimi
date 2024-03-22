@@ -1,6 +1,6 @@
 {
-  "name": "wann-simsimii",
-  "version": "0.0.7",
+  "name": "wann-simsimi",
+  "version": "0.0.8",
   "description": "Chats SimSimi adalah modul yang memungkinkan Anda berinteraksi dengan bot SimSimi untuk percakapan yang menyenangkan.",
   "main": "lib/main.js",
   "author": "@wannofficial",
