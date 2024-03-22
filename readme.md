@@ -7,7 +7,7 @@
 
 ---
 
-[![Node.js Package](https://github.com/srart24/chats-simsimi/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/srart24/chats-simsimi/actions/workflows/npm-publish.yml)
+[![Node.js Package](https://github.com/rdokuwww/chats-simsimi/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/rdpkuwww/chats-simsimi/actions/workflows/npm-publish.yml)
 [![npm version](https://badge.fury.io/js/chats-simsimi.svg)](https://www.npmjs.com/package/chats-simsimi)
 
 ---
@@ -28,7 +28,7 @@ npm install chats-simsimi
 ## import module
 ``` js
 
-const simsimi = require('chats-simsimi')
+const simsimi = require('wann0fc/wann-simsimii')
 
 ```
 
@@ -114,7 +114,7 @@ simsimi('Halo, apa kabar?', 'id')
 ``` js
 SimSimi: {
   status: true,
-  creator: '@srart24',
+  creator: '@wannofc',
   result: 'Baik kak. Kakak bagaimana?'
 }
 ```
@@ -137,6 +137,6 @@ SimSimi: {
 
 | <img src="https://github.com/srart24.png" width="70" height="70"> |
 | :---: |
-| [srart24](https://github.com/srart24) |
+| [wannofc](https://github.com/rdpkuwww) |
 
 ---
