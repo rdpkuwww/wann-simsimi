@@ -97,7 +97,7 @@ Berikut adalah contoh penggunaan dasar modul ini:
 
 ``` js
 
-const simsimi = require('chats-simsimi');
+const simsimi = require('@wann0ofc/wann-simsimi');
 
 // Mengirim pesan ke SimSimi
 simsimi('Halo, apa kabar?', 'id')
