@@ -21,7 +21,7 @@
 Anda dapat menginstal modul ini melalui npm. Pastikan Anda memiliki Node.js terpasang di sistem Anda sebelum melanjutkan.
 
 ```bash
-npm install chats-simsimi
+npm install @wann0fc/wann-simsimi
 
 ```
 
